@@ -18,6 +18,7 @@
 ## Download Link
 
 [Linux Build](https://github.com/alissonbls14/Tappy-Plane-/releases/download/1.0.0/TappyPlane-Linux.zip)
+[Windows Build](https://github.com/alissonbls14/Tappy-Plane-/releases/download/1.0.0/TappyPlane-Windows.zip)
 
 ---
 
